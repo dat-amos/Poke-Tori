@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Poke Tori</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Your Poke Tori</string>
+    <string name="nav_header_subtitle">learncodingnow1@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Poke Tori</string>
+    <string name="menu_story1">The wolf boy</string>
+    <string name="menu_story2">The princess</string>
+    <string name="menu_story3">The princess</string>
+    <string name="menu_story4">The princess</string>
+    <string name="menu_story5">The princess</string>
+    <string name="menu_story6">The princess</string>
+    <string name="menu_story7">The princess</string>
+    <string name="menu_story8">The princess</string>
+    <string name="menu_story9">The princess</string>
+    <string name="menu_story10">The princess</string>
+    <string name="menu_story11">The princess</string>
+    <string name="menu_story12">The princess</string>
+    <string name="menu_story13">The princess</string>
+    <string name="menu_story14">The princess</string>
+    <string name="menu_story15">The princess</string>
+    <string name="menu_story16">The princess</string>
+    <string name="menu_story17">The princess</string>
+    <string name="menu_story18">The princess</string>
+    <string name="menu_story19">The princess</string>
+    <string name="menu_story20">The princess</string>
+    <string name="menu_story21">The princess</string>
+    <string name="menu_story22">The princess</string>
+    <string name="menu_story23">The princess</string>
+    <string name="menu_story24">The princess</string>
+    <string name="menu_story25">The princess</string>
+</resources>

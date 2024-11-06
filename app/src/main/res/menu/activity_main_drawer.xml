@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_story1"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story1" />
+        <item
+            android:id="@+id/nav_story2"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story2" />
+        <item
+            android:id="@+id/nav_story3"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story3" />
+        <item
+            android:id="@+id/nav_story4"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story4" />
+        <item
+            android:id="@+id/nav_story5"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story5" />
+        <item
+            android:id="@+id/nav_story6"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story6" />
+        <item
+            android:id="@+id/nav_story7"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story7" />
+        <item
+            android:id="@+id/nav_story8"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story8" />
+        <item
+            android:id="@+id/nav_story9"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story9" />
+        <item
+            android:id="@+id/nav_story10"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story10" />
+        <item
+            android:id="@+id/nav_story11"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story11" />
+        <item
+            android:id="@+id/nav_story12"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story12" />
+        <item
+            android:id="@+id/nav_story13"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story13" />
+        <item
+            android:id="@+id/nav_story14"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story14" />
+        <item
+            android:id="@+id/nav_story15"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story15" />
+        <item
+            android:id="@+id/nav_story16"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story16" />
+        <item
+            android:id="@+id/nav_story17"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story17" />
+        <item
+            android:id="@+id/nav_story18"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story18" />
+        <item
+            android:id="@+id/nav_story19"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story19" />
+        <item
+            android:id="@+id/nav_story20"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story20" />
+        <item
+            android:id="@+id/nav_story21"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_story21" />
+    </group>
+</menu>
